@@ -1,3 +1,15 @@
+8x9
+schoolhack
+school8x9
+192.168.1.55:8080
+bit.ly
+scratch
+micro:bit
+ichigojam
+8x9craft
+editor
+typing
+aiueo
 abstract
 assert
 async
