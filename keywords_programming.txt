@@ -1,12 +1,8 @@
-8x9
 schoolhack
-school8x9
-192.168.1.55\:8080
-"bit\.ly"
 scratch
-"micro\:bit"
+microbit
 ichigojam
-8x9craft
+craft
 editor
 typing
 aiueo
